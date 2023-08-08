@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mustafa Mercan</h1>
 <h3 align="center">I am a third-year Computer Engineering student at Gebze Technical University.I am also taking software engineering training 42 Ecole. I am currently interested in the MERN stack.</h3>
 
-- 🔭 I’m currently working on **MERN Stack,Data Structures,Algorithms**
+- 🔭 I’m currently working on **MERN Stack Technologies,Algorithms**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
